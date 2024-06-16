@@ -1,0 +1,22 @@
+body {
+  font-family: "Arial", sans-serif;
+}
+
+.nav-link {
+  color: white;
+}
+
+section {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.social-icons a {
+  color: #fff;
+  transition: color 0.3s ease;
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  color: #007bff;
+}
