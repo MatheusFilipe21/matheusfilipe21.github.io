@@ -20,3 +20,11 @@ section {
 .social-icons a:hover {
   color: #007bff;
 }
+
+#sobre-mim img {
+  max-height: 400px;
+}
+
+#sobre-mim p {
+  text-align: justify;
+}
