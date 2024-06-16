@@ -25,6 +25,21 @@ section {
   max-height: 400px;
 }
 
-#sobre-mim p {
+#sobre-mim p,
+#projetos p {
   text-align: justify;
+}
+
+.card {
+  width: 100%;
+}
+
+.card-title {
+  font-size: 1.25rem;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
