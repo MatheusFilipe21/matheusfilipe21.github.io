@@ -48,3 +48,8 @@ section {
   color: #000;
   text-decoration: none;
 }
+
+footer {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+}
