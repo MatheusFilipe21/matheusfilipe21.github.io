@@ -43,3 +43,8 @@ section {
   flex-direction: column;
   justify-content: space-between;
 }
+
+#cursos a {
+  color: #000;
+  text-decoration: none;
+}
